@@ -21,7 +21,6 @@ Arquitetura da Solução
 
 Demonstração
 
-Inserir aqui:
 
   <img width="1037" height="929" alt="image" src="https://github.com/user-attachments/assets/e9021173-b2ac-4407-9599-500fa36af4f8" />
   
