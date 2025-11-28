@@ -12,7 +12,11 @@ O projeto consiste na criação de uma arquitetura serverless na Azure para proc
 
 Arquitetura da Solução
 
-    <img width="1920" height="1080" alt="New Project(1)" src="https://github.com/user-attachments/assets/2ceeaaf8-247a-414a-a0d8-5afa388f937d" />
+
+    
+<img width="1920" height="1080" alt="New Project(1)" src="https://github.com/user-attachments/assets/aca5abde-266e-488b-9ec6-9f4cc915e42a" />
+
+
 
 
 Demonstração
